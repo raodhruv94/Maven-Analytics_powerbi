@@ -12,10 +12,10 @@ I have been given a folder of raw csv files, which contain information about tra
 
 I have to use Power BI Desktop to:
 
-Connect and transform the raw data so that they can be accessed to build a data model
+1. Connect and transform the raw data so that they can be accessed to build a data model
 
-Build the relational data model that summarizes the above data 
+2. Build the relational data model that summarizes the above data 
 
-Create calculated columns and measures with DAX and;
+3. Create calculated columns and measures with DAX and;
 
-Lastly, design an interactive dashboard to visualize this data and use this model to generate meaningful insights. 
+4. Lastly, design an interactive dashboard to visualize this data and use this model to generate meaningful insights. 
