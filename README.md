@@ -1,7 +1,3 @@
-THE SITUATION
-
-I am a Business Intelligence Analyst at AdventureWorks, a global manufacturing company that produces cycling equipment and accessories
-
 THE BRIEF
 
 The management team needs a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
