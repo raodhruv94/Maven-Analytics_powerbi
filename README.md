@@ -7,6 +7,7 @@ The management team at Adventure Works needs a data model to track the following
 4. identify high-value customers.
 
 My OBJECTIVE
+
 I have been given a folder of raw csv files, which contain information about transactions, returns, products, customers, and sales territories.
 
 I have to use Power BI Desktop to:
