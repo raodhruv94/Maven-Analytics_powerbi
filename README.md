@@ -1,5 +1,7 @@
 This advanced Power BI project involves creating a comprehensive data model for Adventure Works. The raw CSV data was normalized and connected using primary keys. Key calculated columns and measures were built using DAX queries to enhance analysis. The project includes four interactive dashboards: an executive summary, product-level insights, a geographical map view, and a customer-level summary. Custom tooltips, a navigation pane, and quick links were added for improved user experience and seamless data access. The additional details of this project are as follows.
 
+
+
 THE BRIEF
 
 The management team at Adventure Works needs a data model to track the following KPIs: 
