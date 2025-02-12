@@ -1,3 +1,5 @@
+This advanced Power BI project involves creating a comprehensive data model for Adventure Works. The raw CSV data was normalized and connected using primary keys. Key calculated columns and measures were built using DAX queries to enhance analysis. The project includes four interactive dashboards: an executive summary, product-level insights, a geographical map view, and a customer-level summary. Custom tooltips, a navigation pane, and quick links were added for improved user experience and seamless data access. The additional details of this project are as follows.
+
 THE BRIEF
 
 The management team at Adventure Works needs a data model to track the following KPIs: 
@@ -20,10 +22,6 @@ I have to use Power BI Desktop to:
 
 4. Lastly, design an interactive dashboard to visualize this data and use this model to generate meaningful insights.
 
-Solution
 
-This is an advanced level power bi project. In this project, I have used Power Bi to create a data model for Adventure Works. I normalised all the data available in the Csv files. Once normalised, I connected the data using primary keys. Then I created the relevant calculated columns and measures which I could add to my dashboard. These calculated columns and measures were built usinf DAX queries. 
-After creting the measures, I began the visualization part where I built four dashboards of visualization. These are- an executive dashboard that showed an executive summary, a dashboard showing product level summary, a map view and lastly a dasboard showing customer level summary. I created custom tool tips too. Lastly I created a navigation pane and few quick links that would enable the user to access relevent data easily from the dashboard.  
 
-![image](https://github.com/user-attachments/assets/f7c064a2-9687-4579-ba57-c84ffe346d44)
 
